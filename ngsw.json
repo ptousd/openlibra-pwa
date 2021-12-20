@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639925483329,
+  "timestamp": 1640025557751,
   "index": "/openlibra-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/openlibra-pwa/favicon.ico",
         "/openlibra-pwa/index.html",
-        "/openlibra-pwa/main.b5ebf219f9757d68f909.js",
+        "/openlibra-pwa/main.89fbd8fc65dbf09b7598.js",
         "/openlibra-pwa/manifest.webmanifest",
         "/openlibra-pwa/polyfills.75bd79ecbb97224e5d67.js",
         "/openlibra-pwa/runtime.3ea5de1d0aaf63855985.js",
@@ -72,8 +72,8 @@
     "/openlibra-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/openlibra-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/openlibra-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/openlibra-pwa/index.html": "fc90a347ccf3136f1a2754b0ab17111266b0b283",
-    "/openlibra-pwa/main.b5ebf219f9757d68f909.js": "be12752df0e282806f22b79989fed21ac0c588ca",
+    "/openlibra-pwa/index.html": "bd593ef8ad2edfd69d7e6c3d710b6a9126a7eef7",
+    "/openlibra-pwa/main.89fbd8fc65dbf09b7598.js": "893f2c073d087ab7986d479f070dfbccc78edf57",
     "/openlibra-pwa/manifest.webmanifest": "6d0ffc8e058a4697ea21bfc2df05b0a59e0576ab",
     "/openlibra-pwa/polyfills.75bd79ecbb97224e5d67.js": "1e83dd886cbd57c015a70f862058d537e05bbec5",
     "/openlibra-pwa/runtime.3ea5de1d0aaf63855985.js": "53a305a6c2f7f5e2fa99fbce302af581d0329a28",
