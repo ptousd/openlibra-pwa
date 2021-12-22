@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640103696986,
+  "timestamp": 1640196497237,
   "index": "/openlibra-pwa/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/openlibra-pwa/favicon.ico",
         "/openlibra-pwa/index.html",
-        "/openlibra-pwa/main.ac92fb8f2051dd27dfa6.js",
+        "/openlibra-pwa/main.9634ec10dbe10d581b6c.js",
         "/openlibra-pwa/manifest.webmanifest",
-        "/openlibra-pwa/polyfills.75bd79ecbb97224e5d67.js",
-        "/openlibra-pwa/runtime.3ea5de1d0aaf63855985.js",
+        "/openlibra-pwa/polyfills.780937c718847590c5f6.js",
+        "/openlibra-pwa/runtime.0b0deb10db94ab1898b0.js",
         "/openlibra-pwa/styles.8f61750391a9d667be1e.css"
       ],
       "patterns": [
@@ -80,11 +80,11 @@
     "/openlibra-pwa/assets/icons/icon-72x72.png": "8147637e770652363f59b06256caa35c6070c6c2",
     "/openlibra-pwa/assets/icons/icon-96x96.png": "ac65f2ebcedffb2909308c0f31bfc0131ad5c9ae",
     "/openlibra-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/openlibra-pwa/index.html": "4df6ee02d34f213406b84423dc3c79fe17d3e3fc",
-    "/openlibra-pwa/main.ac92fb8f2051dd27dfa6.js": "85d21f99df6d03847b80d78445115b126ae9263d",
-    "/openlibra-pwa/manifest.webmanifest": "6d0ffc8e058a4697ea21bfc2df05b0a59e0576ab",
-    "/openlibra-pwa/polyfills.75bd79ecbb97224e5d67.js": "1e83dd886cbd57c015a70f862058d537e05bbec5",
-    "/openlibra-pwa/runtime.3ea5de1d0aaf63855985.js": "53a305a6c2f7f5e2fa99fbce302af581d0329a28",
+    "/openlibra-pwa/index.html": "55cc11210e18c52e4119d5272855dd2afbb15473",
+    "/openlibra-pwa/main.9634ec10dbe10d581b6c.js": "a85f8cfa526a5f24e4613a2ec9a477d6ad29bf3a",
+    "/openlibra-pwa/manifest.webmanifest": "4a45eacaffd3c6fced46e1d6964baf3707df27e2",
+    "/openlibra-pwa/polyfills.780937c718847590c5f6.js": "85555d680921695868b68c8a7ada510d5b5fc795",
+    "/openlibra-pwa/runtime.0b0deb10db94ab1898b0.js": "3984ccc36b9c1b9ae4c0cf9550205df8c9ef449a",
     "/openlibra-pwa/styles.8f61750391a9d667be1e.css": "a79e2cff16708d7b9d4577c8556cff37d0fa4fcc"
   },
   "navigationUrls": [
