@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640253230408,
+  "timestamp": 1640263633182,
   "index": "/openlibra-pwa/index.html",
   "assetGroups": [
     {
@@ -55,10 +55,10 @@
       "patterns": [
         "https:\\/\\/www\\.etnassoft\\.com\\/api\\/v1\\/.*"
       ],
-      "strategy": "performance",
-      "maxSize": 50,
+      "strategy": "freshness",
+      "maxSize": 100,
       "maxAge": 3600000,
-      "timeoutMs": 3000,
+      "timeoutMs": 5000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -80,7 +80,7 @@
     "/openlibra-pwa/assets/icons/icon-72x72.png": "8147637e770652363f59b06256caa35c6070c6c2",
     "/openlibra-pwa/assets/icons/icon-96x96.png": "ac65f2ebcedffb2909308c0f31bfc0131ad5c9ae",
     "/openlibra-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/openlibra-pwa/index.html": "3d501c53e6adddc2d7ad53d42a1626c8847dabc9",
+    "/openlibra-pwa/index.html": "1c17e270c8cd9a0e0cdec78cf8638515c506d1ac",
     "/openlibra-pwa/main.e455887feeaead01c7eb.js": "c6c2f2c6943a5848cc7f72c82151595bb5ab8079",
     "/openlibra-pwa/manifest.webmanifest": "4a45eacaffd3c6fced46e1d6964baf3707df27e2",
     "/openlibra-pwa/polyfills.780937c718847590c5f6.js": "85555d680921695868b68c8a7ada510d5b5fc795",
